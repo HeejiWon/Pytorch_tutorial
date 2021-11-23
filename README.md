@@ -1,4 +1,4 @@
 # Pytorch_tutorial
 
-## Reference
+| Reference : 
 https://tutorials.pytorch.kr/beginner/basics/intro.html
